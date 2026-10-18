@@ -25,7 +25,7 @@
     entrance:   { cat: "core", name: { de: "Eingangshalle", en: "Entrance Hall" },   tag: { de: "Wer hier wohnt", en: "Who lives here" },
                   flavor: { de: "Die Tür fällt hinter dir ins Schloss. Es riecht nach Holz, Druckertinte und ein bisschen nach Abenteuer.", en: "The door clicks shut behind you. It smells of wood, printer ink and a little bit of adventure." } },
     classroom:  { cat: "know", name: { de: "Klassenzimmer", en: "Classroom" },       tag: { de: "Schule & Abitur", en: "School & Abitur" },
-                  flavor: { de: "Kreide, Tafel, dreizehn Jahre. Irgendwo hier liegt noch ein Matheheft.", en: "Chalk, blackboard, thirteen years. There's a maths notebook in here somewhere." } },
+                  flavor: { de: "Kreide, Tafel, neun Jahre. Irgendwo hier liegt noch ein Matheheft.", en: "Chalk, blackboard, nine years. There's a maths notebook in here somewhere." } },
     commissary: { cat: "work", name: { de: "Kiosk", en: "Commissary" },              tag: { de: "Pausenverkauf", en: "Break-time sales" }, perk: { de: "+1 Würfel", en: "+1 die" },
                   flavor: { de: "Ein kleiner Laden mitten im Haus. In der großen Pause klingelt hier die Kasse.", en: "A little shop in the middle of the house. At break time, the till starts ringing." } },
     tutoring:   { cat: "work", name: { de: "Studierzimmer", en: "Study" },           tag: { de: "Nachhilfe", en: "Tutoring" },
